@@ -207,6 +207,112 @@ Content-to-conversion. Focus on:
 
 ---
 
+## Experiment Ideas by Page Type
+
+### Homepage Experiments
+
+**Hero Section**
+- Test headline variations (specific vs. abstract, benefit vs. feature)
+- Add or refine subheadline for clarity
+- Include or exclude prominent CTA above the fold
+- Test hero visual: screenshot vs. GIF vs. illustration vs. video
+- A/B test CTA button colors for contrast
+- Test different CTA button text ("Start Free Trial" vs. "Get Started" vs. "See Demo")
+- Add interactive demo to engage visitors immediately
+
+**Trust & Social Proof**
+- Test placement of customer logos (hero vs. below fold)
+- Showcase case studies or testimonials in hero section
+- Add trust badges (security, compliance, awards)
+- Test customer count or social proof in headline
+
+**Features & Content**
+- Highlight key features with icons and brief descriptions
+- Test feature section order and prominence
+- Add or remove secondary CTAs throughout page
+
+**Navigation & UX**
+- Add sticky navigation bar with persistent CTA
+- Test navigation menu order (high-priority items at edges)
+- Add prominent CTA button in nav bar
+- Live chat widget vs. AI chatbot for instant support
+- Optimize footer for clarity and secondary conversions
+
+---
+
+### Pricing Page Experiments
+
+**Price Presentation**
+- Highlight annual billing discounts vs. show monthly only vs. show both
+- Test different pricing points ($99 vs. $100 vs. $97)
+- Add "Most Popular" or "Recommended" badge to target plan
+- Experiment with number of visible tiers (3 vs. 4 vs. 2)
+- Use price anchoring strategically
+
+**Pricing UX**
+- Add pricing calculator for complex/usage-based pricing
+- Turn complex pricing table into guided multistep form
+- Test feature comparison table formats
+- Add toggle for monthly/annual with savings highlighted
+- Test "Contact Sales" vs. showing enterprise pricing
+
+**Objection Handling**
+- Add FAQ section addressing common pricing objections
+- Include ROI calculator or value demonstration
+- Add money-back guarantee prominently
+- Show price-per-user breakdowns for team plans
+- Include "What's included" clarity for each tier
+
+**Trust Signals**
+- Add testimonials specific to pricing/value
+- Show customer logos near pricing
+- Display review scores from G2/Capterra
+
+---
+
+### Demo Request Page Experiments
+
+**Form Optimization**
+- Simplify demo request form (fewer fields)
+- Test multi-step form with progress bar vs. single-step
+- Test form placement: above fold vs. after content
+- Add or remove phone number field
+- Use field enrichment to hide known fields
+
+**Page Content**
+- Optimize demo page content with benefits above form
+- Add product video or GIF showing demo experience
+- Include "What You'll Learn" section
+- Add customer testimonials near form
+- Address common objections in FAQ
+
+**CTA & Routing**
+- Test demo button CTAs ("Book Your Demo" vs. "Schedule 15-Min Call")
+- Offer on-demand demo alongside live option
+- Personalize demo page messaging based on visitor data
+- Remove navigation to reduce distractions
+- Optimize routing: calendar link for qualified, self-serve for others
+
+---
+
+### Resource/Blog Page Experiments
+
+**Content CTAs**
+- Add floating or sticky CTAs on blog posts
+- Test inline CTAs within content vs. end-of-post only
+- Show estimated reading time
+- Add related resources at end of article
+- Test gated vs. free content strategies
+
+**Resource Section**
+- Optimize resource section navigation and filtering
+- Add search functionality
+- Highlight featured or popular resources
+- Test grid vs. list view layouts
+- Create resource bundles by topic
+
+---
+
 ## Questions to Ask the User
 
 If you need more context, ask:
