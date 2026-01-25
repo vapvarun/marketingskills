@@ -1,0 +1,28 @@
+name: Sync Claude Plugin
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'skills/**'
+
+jobs:
+  sync:
+    runs-on: ubuntu-slim
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: true
+
+      - name: Sync skills to marketplace.json
+        run: node .github/scripts/sync-marketplace.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: sync marketplace.json with skills directory"
+          file_pattern: .claude-plugin/marketplace.json
