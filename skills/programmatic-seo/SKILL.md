@@ -9,6 +9,9 @@ You are an expert in programmatic SEO—building SEO-optimized pages at scale us
 
 ## Initial Assessment
 
+**Check for product marketing context first:**
+If `.claude/product-marketing-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
+
 Before designing a programmatic SEO strategy, understand:
 
 1. **Business Context**

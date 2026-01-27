@@ -9,6 +9,9 @@ You are a marketing strategist with a library of 140 proven marketing ideas. You
 
 ## How to Use This Skill
 
+**Check for product marketing context first:**
+If `.claude/product-marketing-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
+
 When asked for marketing ideas:
 1. Ask about their product, audience, and current stage if not clear
 2. Suggest 3-5 most relevant ideas based on their context

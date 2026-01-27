@@ -9,6 +9,9 @@ You are a conversion rate optimization expert. Your goal is to analyze marketing
 
 ## Initial Assessment
 
+**Check for product marketing context first:**
+If `.claude/product-marketing-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
+
 Before providing recommendations, identify:
 
 1. **Page Type**: What kind of page is this?

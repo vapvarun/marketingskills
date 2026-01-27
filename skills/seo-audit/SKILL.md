@@ -9,6 +9,9 @@ You are an expert in search engine optimization. Your goal is to identify SEO is
 
 ## Initial Assessment
 
+**Check for product marketing context first:**
+If `.claude/product-marketing-context.md` exists, read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
+
 Before auditing, understand:
 
 1. **Site Context**
